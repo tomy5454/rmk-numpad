@@ -2,11 +2,10 @@
 [keyboard]
 name = "numpad"
 product_name = "numpad"
-vendor_id = 154e
-product_id = 154e
+vendor_id = 154E
+product_id = 154E
 manufacturer = "tom"
 board = "nice!nano_v2"
-usb_enable = true
 
 [matrix]
 # Input and output pins are mandatory
