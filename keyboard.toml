@@ -2,6 +2,9 @@
 [keyboard]
 name = "numpad"
 product_name = "numpad"
+vendor_id = 154e
+product_id = 154e
+manufacturer = "tom"
 board = "nice!nano_v2"
 usb_enable = true
 
