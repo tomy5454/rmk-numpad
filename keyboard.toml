@@ -27,6 +27,7 @@ keymap = [
         ["W", "W", "W", "_", "_",]
         ["W", "W", "W", "_", "_",]
     ]
+]
 
 [storage]
 # Storage feature is enabled by default
