@@ -1,6 +1,6 @@
 {
-    "name": "HID Keyboard",
-    "vendorId": "0x4C4B",
+    "name": "numpad",
+    "vendorId": "746f6d79",
     "productId": "0x4643",
     "lighting": "none",
     "matrix": {
