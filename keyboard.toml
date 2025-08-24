@@ -4,7 +4,7 @@ name = "numpad"
 product_name = "numpad"
 vendor_id = 0x4c4b
 product_id = 0x4643
-manufacturer = "tom"
+manufacturer = "haobo"
 chip = "nrf52840"
 
 [matrix]
