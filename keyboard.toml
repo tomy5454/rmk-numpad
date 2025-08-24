@@ -2,7 +2,7 @@
 [keyboard]
 name = "numpad"
 product_name = "numpad"
-vendor_id = 746f6d79
+vendor_id = 0x4c4b
 product_id = 0x4643
 manufacturer = "tom"
 chip = "nrf52840"
