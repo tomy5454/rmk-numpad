@@ -1,6 +1,6 @@
 {
     "name": "numpad",
-    "vendorId": "746f6d79",
+    "vendorId": "0x4c4b",
     "productId": "0x4643",
     "lighting": "none",
     "matrix": {
